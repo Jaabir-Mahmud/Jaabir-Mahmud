@@ -1,6 +1,7 @@
-## My name is Jabir
+![I am a Full Stack Developer](https://pbs.twimg.com/profile_banners/1733175545054314498/1704263082/1080x360)
+
+## My name is Jabir Mahmud
 #### I am a Full Stack Developer
-![I am a Full Stack Developer](https://twitter.com/Jabirmahmud0/header_photo)
 
 Experienced web developer with proficiency in a range of technologies. Here are some of my key skills:
 •	Django
