@@ -19,7 +19,7 @@ Experienced web developer with proficiency in a range of technologies. Here are 
 
 Skills: Django/Python/DORM/React/HTML5/CSS/JS
 
-- 🌱 I’m currently learning MERN 
+- 🌱 I’m currently working on MERN 
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: jaabirmahmud01@gmail.com 
 
